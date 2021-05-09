@@ -1,5 +1,5 @@
 # Foxxie
-Anonymous Chat room using ASGI with profanity filter and sentiment analyzer.
+Anonymous Chat room using Django ASGI with profanity filter and sentiment analyzer.  
 The main purpose is to provide a safe space for people to vent their emotions out. Our goal is to help achieve a better future in the field of mental health.
 
 
@@ -9,3 +9,6 @@ The main purpose is to provide a safe space for people to vent their emotions ou
 4. `python ventroom/manage.py makemigrations`
 5. `python ventroom/manage.py migrate`
 6. `python ventroom/manage.py runserver`
+
+
+<sub>Made for Frosthack'21</sub>
