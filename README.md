@@ -10,5 +10,9 @@ The main purpose is to provide a safe space for people to vent their emotions ou
 5. `python ventroom/manage.py migrate`
 6. `python ventroom/manage.py runserver`
 
+### Using Docker
+1. docker build -t ventroom .
+2. docker run -p 8000:8000 ventroom
+
 
 <sub>Made for Frosthack'21</sub>
